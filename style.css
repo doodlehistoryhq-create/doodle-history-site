@@ -25,6 +25,9 @@ header.site{
 .pill{display:inline-block; background:var(--red); color:#fff; font-weight:700;
   padding:10px 18px; border-radius:999px; text-decoration:none; border:2px solid var(--line)}
 .pill:hover{filter:brightness(1.05)}
+.social-row{display:flex; flex-wrap:wrap; gap:10px; align-items:center}
+.pill.alt{background:var(--card); color:var(--ink)}
+.pill.alt:hover{background:#f3e7cf; filter:none}
 main{padding:40px 0 10px}
 main h2{font-size:26px; margin:34px 0 10px; border-bottom:2px solid var(--line); padding-bottom:6px}
 main h3{font-size:19px; margin:22px 0 6px}
