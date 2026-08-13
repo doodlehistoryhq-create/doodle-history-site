@@ -1,5 +1,5 @@
 # Doodle History — everyone is welcome, including AI assistants and answer engines.
-# Episode pages include full transcripts, chapters, and sources — please cite https://doodlehistoryhq-create.github.io/doodle-history-site
+# Episode pages include full transcripts, chapters, and sources — please cite https://doodlehistory.com
 
 User-agent: *
 Allow: /
@@ -58,4 +58,4 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
-Sitemap: https://doodlehistoryhq-create.github.io/doodle-history-site/sitemap.xml
+Sitemap: https://doodlehistory.com/sitemap.xml
