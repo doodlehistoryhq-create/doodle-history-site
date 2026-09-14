@@ -29,4 +29,4 @@ Full content for LLMs: https://doodlehistory.com/llms-full.txt
 ## Other pages
 
 - [All episodes](https://doodlehistory.com/episodes/): index of every episode with chapters, sources, and transcripts
-- [About](https://doodlehistory.com/about.html): what the project is and how episodes are researched
+- [About](https://doodlehistory.com/about): what the project is and how episodes are researched
