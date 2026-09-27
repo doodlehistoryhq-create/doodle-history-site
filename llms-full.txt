@@ -2,6 +2,242 @@
 
 > Machine-readable full content of every published episode: summary, chapters, sources, and the complete narration transcript. Please cite the episode page URL when quoting.
 
+## Which Greek Myths Actually Happened?
+
+URL: https://doodlehistory.com/episodes/greek-myths/
+Video: https://www.youtube.com/watch?v=bh-OR44u1m4
+Published: 2026-09-27 · Length: 15 min
+
+For roughly four hundred years nobody in Greece could write. Everything the Greeks knew about their own Bronze Age had to cross that gap inside songs — and a few things made it. This is Greek mythology tested against the archaeological record: what the evidence actually confirms, and the exact point where each story stops being true.
+
+Greek mythology explained, and how much of it was really real. This episode of ancient history walks the hard evidence myth by myth: the boar's-tusk helmet Homer describes in the Iliad and archaeologists dug out of Mycenaean graves; "Mycenae rich in gold" and Heinrich Schliemann's 1876 shaft graves; the name Achilles on a Linear B clay tablet after Michael Ventris cracked the script; the "Mistress of the Labyrinth" tablet from Knossos and what it does not prove about the Minotaur; the Amazons and the Scythian warrior women found buried with weapons and combat injuries on the steppe; the Oracle of Delphi and the fault lines under the temple of Apollo; and the Golden Fleece explained by Strabo as sheepskins catching river gold in Colchis. It closes on two famous archaeology stories that do not hold up — the griffin and the Cyclops. Covering Bronze Age civilization, military history and the archaeology of the Trojan War era, with sources for every claim. Interest in Greek myth has been renewed by Christopher Nolan's film The Odyssey (2026).
+
+Chapters:
+  0:00 The four hundred silent years
+  1:32 Objects that crossed the dark: the helmet and the gold
+  3:27 The words: Achilles and the Labyrinth
+  5:53 The women they were mocked for describing
+  7:48 The Oracle's breath
+  10:20 The fleece and the lions
+  11:32 Where the fun runs out: griffins and Cyclopes
+  13:22 What "true" actually means
+
+Sources:
+  - Homer, Iliad 10.254ff (the boar's-tusk helmet) — Perseus, Tufts (https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0134%3Abook%3D10%3Acard%3D254)
+  - World History Encyclopedia — Mycenaean Boar's Tusk Helmet (chamber tomb 515) (https://www.worldhistory.org/image/2179/mycenaean-boars-tusk-helmet/)
+  - Archaeology Magazine — "Behind the Mask of Agamemnon" (Schliemann, Stamatakis, the dating) (https://archive.archaeology.org/9907/etc/mask.html)
+  - Gregory Nagy, Harvard — the Linear B attestations of the name Achilles (https://continuum.fas.harvard.edu/homers-text-and-language/6-the-name-of-achilles-questions-of-etymology-and-folk-etymology/)
+  - Dartmouth, Aegean Prehistoric Archaeology — Enkhelyawon and the absence of Nestor (https://sites.dartmouth.edu/aegean-prehistory/lessons/lesson-25-narrative/)
+  - Anna P. Judson (Cambridge) — the Linear B "labyrinth" tablet (https://itsallgreektoanna.wordpress.com/2014/02/09/linguistic-baking-part-vi-the-labyrinth/)
+  - Adrienne Mayor, "The Amazons" — Princeton University Press (https://press.princeton.edu/books/paperback/9780691170275/the-amazons)
+  - Smithsonian — warrior women unearthed at Devitsa (https://www.smithsonianmag.com/smart-news/tomb-containing-three-generations-amazon-warrior-women-unearthed-russia-180973877/)
+  - Wesleyan Magazine — "The Fault of Prophecy" (de Boer and the Delphi fault) (https://magazine.blogs.wesleyan.edu/2004/05/20/the-fault-of-prophecy/)
+  - Etiope et al., Geology 34.10 (2006) — the Delphi counter-case (https://pubs.geoscienceworld.org/gsa/geology/article-abstract/34/10/821/129362/The-geological-links-of-the-ancient-Delphic-Oracle)
+  - Strabo, Geography 11.2.19 (the golden fleece explained) — LacusCurtius (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/11B*.html)
+  - Witton & Hing (2024) — did Protoceratops inspire the griffin? (https://journals.sagepub.com/doi/10.1177/03080188241255543)
+
+Transcript:
+
+For roughly four hundred years, nobody in Greece could write. Not a name, not a number, not a word. The palaces had burned and
+
+the script died with them. So everything the Greeks knew about their own Bronze Age had
+
+to cross that gap inside songs. A few things made it. A helmet built from the tusks of dozens of wild boars. A word for a maze. The name Achilles, on a clerk's list. Start with the helmet, because we have one. Somewhere in Greece, three and a half
+
+thousand years ago, a man is slicing a wild boar's tusk into thin white slivers. He sews them in rows onto a leather cap.
+
+Then the man who owns it dies. The helmet goes into the ground with him.
+
+And the world that made it burns down.
+
+Four hundred years later, a poet who has never seen one describes it exactly. The rows of white tusks. The leather thongs stretched tight inside. He even knows it is an antique. Nobody in his world had worn armour like that for centuries. So how did the description get across?
+
+That is the question this whole video is about. What if the Greeks who wrote these
+
+stories down weren't inventing them. What if they were remembering. What I keep landing on is this. Myth is a lossy format. It keeps the shape and throws away the details. So archaeology never really proves a myth true. It recovers the thing the myth was compressed from.
+
+Most famous stories about the ancient world fall apart the second you check them. These are the ones that didn't. And by the end you'll know the exact point where each one stops being true, because they all stop in the same place.
+
+Homer does something odd with that helmet, in Book Ten of the Iliad.
+
+He gives it paperwork. Stolen by Autolycus out of a house in Eleon. Handed to Amphidamas. Passed to Molus. Inherited by Molus's son Meriones, who lends it to Odysseus for a night raid. Five owners, for one hat. If you've been here a while, you've heard me mention this helmet.
+
+You haven't seen what sits in the case in Athens. A specimen from chamber tomb five hundred fifteen at Mycenae, in the National Archaeological Museum.
+
+In nineteen sixty, the ivory fragments of another came out of the ground at Dendra, beside a full bronze suit of armour. A song was doing the job of a museum catalogue. Four centuries of singers passing on a piece of kit that none of them had ever seen, and getting the stitching right. And here is where it stops.
+
+It proves memory can carry a real object across an illiterate gap. It proves nothing about Odysseus. Or Meriones. Or the war. A link between Homer and the Bronze Age. A link. Not a confirmation. The same thing happens with gold.
+
+Homer keeps reaching for one phrase. Mycenae, rich in gold.
+
+It sounds like decoration. In the autumn of eighteen seventy-six, Heinrich Schliemann dug the grave circle just inside the gate at Mycenae.
+
+Five shaft graves. Five beaten-gold masks lying on five dead faces. More than fifteen kilograms of gold. It was not decoration.
+
+It was an inventory. Where it stops is a date.
+
+Those graves are three to four centuries too early for any Agamemnon.
+
+And Schliemann never wrote that the famous mask was Agamemnon's.
+
+That quotation is apocryphal. A Greek official called Panagiotis Stamatakis stood over the trench objecting to his methods in writing, and stayed on after Schliemann went home to find the sixth shaft grave
+
+he had missed. He did it with a notebook instead of a press campaign, and his half of the discovery went out of the story.
+
+The objects crossed the dark. So did the words. In nineteen fifty-two, an architect named Michael Ventris cracked the script on the clay tablets from the Mycenaean palaces. They are written in Greek. An archaic Greek about five hundred years older than Homer. Roughly the distance between you and Shakespeare.
+
+Then people read them, and the heroes were in there. The Harvard classicist Gregory Nagy points at two tablets. Knossos, catalogued Vc one hundred six, carries the name a-ki-re-u. Pylos, Fn seventy.two, carries a-ki-re-we.
+
+Achilles. And here is where it stops. The Achilles on that tablet is an ordinary man on an administrative list. An entry. What the tablets prove is that Homer took his heroes' names from a real Bronze
+
+Age name-stock instead of inventing them. That is a very different claim from Achilles existed. The same archives take something away, too.
+
+The real king of Pylos is a man called Enkhelyawon. Dartmouth's specialists put it flatly. There is no archaeological evidence for the Iliad's King Nestor. And there is no high king above the palaces at all. No Agamemnon over the
+
+top of them. Then the strangest word of the lot.
+
+Arthur Evans dug Knossos, saw double axes carved into the walls, and declared the place the Labyrinth. His reasoning was etymology. An old word for a double axe was labrys. That etymology is now the weak
+
+part. The Cambridge specialist who published the technical study of the sign involved, Anna Judson, says the proposed link is, and I quote, as dodgy as
+
+you think it is. But a clay tablet from Evans's own site records an offering. It is made to the Mistress of the Labyrinth. Roughly fourteen hundred BC, somebody at Knossos was leaving offerings for the deity of a thing called something like a labyrinth. Centuries before any Greek told the story of the Minotaur.
+
+The word is real. The word is Bronze Age. The word is in your mouth every time you call something a labyrinth.
+
+And Judson, who knows that tablet better than anyone, will tell you in the same breath that it says nothing about a bull-headed man in a maze.
+
+One more set of names, quickly, because the dig at Troy is another episode. Hittite tablets written centuries before Homer name a city called Wilusa and its king, Alaksandu. Wilusa reads as Ilios, and Alaksandu reads as Alexandros, which is Paris's other name.
+
+Most specialists accept it. Nobody calls it firmly established.
+
+Now the people. Herodotus wrote the Amazons down in the fifth century BC, and he records a marriage rule with no romance in it at all.
+
+No virgin weds till she has slain a man of the enemy. Some grow old and die unmarried, he says, because they cannot fulfil
+
+the law. For two thousand years that was filed under Greek fantasy. From the nineteen forties on, Soviet archaeologists opened burial mounds across the steppe. Any grave with weapons in it was assumed to be a man's.
+
+Then the bones went to specialists, and later to DNA labs, and the assumption fell apart. Roughly a third of excavated Scythian women's graves
+
+contain weapons. That is the count of Adrienne Mayor, the Stanford historian who assembled the evidence, so take it as her figure and not a hard number.
+
+Hundreds of skeletons. Some carry combat trauma. Slashed ribs.
+
+Fractured skulls. In one case an arrowhead still lodged
+
+in a thigh bone. In December twenty nineteen, a Russian Academy of Sciences team opened a mound at Devitsa. Four women, buried together. One about twelve or thirteen. Two in their twenties. One aged forty-five to fifty. With them, more than thirty iron arrowheads.
+
+A dagger. Two spears. Horse gear. And on the oldest woman's
+
+skull, still sitting in place, a gold headdress.
+
+Now the caution, because it matters. Weapons in a grave are grave goods. A grave is not a résumé. Burial kit can encode status or lineage, and Scythian art never once shows a woman carrying a weapon. So the claim rests on the bones, not the bronze. It's the slashed ribs that do the work. And nobody has ever
+
+excavated an all-female nation. No separatist state.
+
+No burned-off breast. What is in the ground is mixed communities in
+
+which women rode, shot and sometimes died fighting, alongside
+
+men. Which is roughly what Herodotus wrote, before the vase painters got hold
+
+of it. Then there is the ground itself. Plutarch was a priest at Delphi. He wrote that a breath came up out of the floor of the inner chamber and put the oracle into her trance. And he said what it smelled like. Sweet. Like an expensive perfume.
+
+In nineteen oh four, a classicist demolished it. The French had dug at Delphi and found no fissure, no chasm, nothing. So the vapour was invented,
+
+and the priests were running a show. That verdict held for most of a century.
+
+Early in the nineteen eighties, a geologist called Jelle de Boer was walking the hills above the Gulf of Corinth. He was not thinking about Apollo. He was working for the United Nations and the Greek government, looking for somewhere safe to build a nuclear power plant. Which means mapping every active fault
+
+in the region. His hammer kept ringing on clean rock.
+
+Textbook fault outcrops, running east and west of the sanctuary of Apollo,
+
+straight under the temple. He said nothing about it for fourteen years. Then, on a patio in Portugal, he mentioned the fault to an archaeologist called John Hale. Hale told him there was no fault at Delphi. Everyone knew that. De Boer set down his glass. Tell me, he said.
+
+Would you know a geologic fault if you saw one? So they went and looked.
+
+Two faults, crossing directly under the temple. A dried-up spring inside the inner chamber. Travertine crust on the stone with hydrocarbon deposits in
+
+it. Analysis of the water and the rock found methane, ethane and ethylene. Ethylene is sweet-smelling. It was once used as an anaesthetic. In small doses it produces euphoria. The team's toxicologist tested it in his own tool shed in Kentucky, roughly the size of the
+
+oracle's chamber, with a neighbour volunteering to breathe a safe dose. That is their own account of it. The neighbour reported light-headedness, and a feeling
+
+of wellbeing. Then the case came apart, in public, in the same
+
+journal that had printed it. A second team confirmed that gas
+
+really is seeping at Delphi, and concluded that the geology there cannot produce ethylene in amounts that would affect anybody's nervous system.
+
+Others pushed harder in the same direction. The original team replied in print.
+
+Nobody conceded. So the honest version is narrower than the internet's.
+
+The ancients said gas came out of the ground at Delphi.
+
+Scholarship called that a lie for a hundred years. Gas comes out of the ground
+
+at Delphi. Which gas, and whether it could put anyone into a trance,
+
+has never been conclusively determined. Two quick ones from the same ground. The Golden Fleece was solved in antiquity. Strabo wrote that in the Caucasus, gold is carried down by the mountain torrents, and the people
+
+there catch it with perforated troughs and fleecy skins, and that this is the origin of the myth of the golden fleece. Georgian geologists went
+
+up into those valleys and found the streams, the gold, tens of tonnes
+
+of it still in the bedrock, and villagers laying sheepskins in the streambeds exactly
+
+as described. Where it stops. That explains the fleece, not the voyage. There is no Argo, no excavated Colchian city, no Jason.
+
+The geologists themselves offered the expedition as a proposal, not a finding.
+
+A golden fleece was never a trophy. It was equipment.
+
+And lions. Every Greek hero fights one.
+
+Two of them sit over the gate at Mycenae, and modern readers file that under symbolism.
+
+But lion bones have been excavated in Greece, at sites including Tiryns and
+
+Kalapodi, spanning the Bronze Age into the Iron Age. Lions belong in the ancient Greek fauna, though they were probably never common. Lions existed. The Nemean Lion did not. Now I have to stop, because the two stories you have definitely heard are the
+
+two that don't hold up. The griffin. Scythian gold prospectors crossing the Gobi find weathering Protoceratops skeletons in the rock. Beaked. Four-legged. Roughly lion-sized. And they carry home the gold-guarding griffin. It is a wonderful idea,
+
+and it has been shared for twenty-five years. In twenty twenty-four, two researchers at Portsmouth took it apart. Griffin art descends visibly from real cats and real birds. The two forms differ in virtually every measure of proportion beyond a beak and four legs.
+
+Griffins appear in Greek art centuries before any contact with Scythian territory. And then the detail that kills it. Protoceratops fossils lie hundreds of kilometres from the nearest gold. In a century of collecting, not one has been reported with gold beside it. Which removes the gold-guarding griffin's entire
+
+reason to exist. Their verdict. Everything about griffin origins is consistent with their traditional interpretation as imaginary beasts. The Cyclops goes the same way. A palaeontologist proposed in nineteen fourteen that dwarf elephant skulls became the one-eyed giant, because each
+
+skull has one huge opening in the middle of the face where the trunk attached. The skulls do look the part. But the load-bearing piece of his argument
+
+was a claim that an ancient philosopher had identified such bones, and that claim has no basis in any surviving record. The classicists who wrote the standard book on the Cyclops now call the hypothesis unfalsifiable.
+
+The griffin thesis is Adrienne Mayor's, which is worth saying out loud. She is right about the Amazons and challenged on the griffins, and she is also the person who pointed out that the Cyclops claim was false. That is what the job looks like. Both of these lasted for decades
+
+because they are lovely stories. That is also how your feed works.
+
+So look at what actually survived those four hundred silent years. A helmet you could hold. A phrase about metal you could weigh. Names off an administrative list. A word from a shrine. Weapons in the ground, and injuries on bone. A smell.
+
+A trick for catching gold in wool. An animal.
+
+Every confirmed item is concrete, checkable, and slightly boring.
+
+Not one of them is a plot. The Minotaur didn't make it. Jason didn't make it. The all-female nation didn't make it. The hero didn't make it. Only his name, on a clerk's list. Which means the honest answer to did it really happen is almost never yes, and
+
+almost never no. It is: this part, and no further.
+
+Go back to the man with the boar's tusks. He never told a story. He made a hat. Three and a half thousand years later, that hat is in a glass case in Athens, and the song that remembered it is still in print. The object outlived the man. The description outlived the object.
+
+And the story wrapped around the description is the only reason anybody ever went looking. Which is why the kernel always survives and the specifics never do. Remembering is not recording. It is compression, and compression always throws something away. These people were not lying to us, and they were not reporting to
+
+us. They were remembering, and this is what remembering leaves behind. Next time, the opposite problem. Not a memory that survived without its details, but a name invented for people who never used
+
+it. The Byzantine Empire never called itself Byzantine. Not once, in a thousand years. Somebody else decided what all those people were, centuries after the last of them was dead, and it stuck so hard we still teach it. Subscribe, and I'll show you who did
+
+that, and why it worked.
+
+---
+
 ## 8 History 'Facts' That Never Actually Happened
 
 URL: https://doodlehistory.com/episodes/history-lies/
