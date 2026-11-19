@@ -2,6 +2,1354 @@
 
 > Machine-readable full content of every published episode: summary, chapters, sources, and the complete narration transcript. Please cite the episode page URL when quoting.
 
+## Greek Myths That Were Real, and the "Facts" We Invented
+
+URL: https://doodlehistory.com/episodes/greek-myth-busts/
+Video: https://www.youtube.com/watch?v=xCVAxlv8re8
+Published: 2026-11-19 · Length: 60 min
+
+Which Greek myths were real, and which famous "facts" about Ancient Greece were invented? A one-hour dig through sixteen layers of time, from the Olympic torch relay (invented in 1936) down to the Bronze Age town buried by the eruption of Thera, with a verdict on every story: real, half-real, invented or still disputed.
+
+Greek mythology and ancient history, myth versus archaeology: the Olympic torch relay and the 1936 Berlin Olympics, why Greek statues look white (painted statues and polychromy), Pandora's box versus Pandora's jar (Hesiod and Erasmus), the Colossus of Rhodes, Archimedes' death ray and the siege of Syracuse, the legend of the marathon runner Pheidippides, Achilles' heel, Pluto's Gate (the Ploutonion of Hierapolis), Diogenes and the barrel, who could vote in Athenian democracy, the bones of Orestes and ancient fossil hunting, the Oracle of the Dead, King Midas' tomb at Gordion, the Chimera's eternal flames at Yanartas, the Lefkandi centaur, and the Minoan eruption of Thera and the archaeology of Akrotiri on Santorini: ancient Greek civilization, one verdict at a time. Interest in Greek myth renewed by Christopher Nolan's The Odyssey (2026) and Percy Jackson and the Olympians.
+
+Chapters:
+  0:00 Invented or Real? The Dig Begins
+  0:56 1936: The Olympic Torch Relay
+  4:24 1764: Why Greek Statues Look White
+  7:58 1508: Pandora Never Had a Box
+  11:10 The Colossus of Rhodes Never Straddled the Harbour
+  14:31 Archimedes' Death Ray: A Legend Centuries Late
+  18:29 The Marathon Death Run: 600 Years Late
+  22:22 Achilles' Heel Is Not in Homer
+  25:14 Pluto's Gate: The Doorway to Hell Is Real
+  28:54 Diogenes Never Lived in a Barrel
+  32:21 Athenian Democracy: Who Could Actually Vote
+  36:17 The Bones of Orestes
+  40:15 The Oracle of the Dead
+  43:47 The Midas Mound Had No Gold
+  47:46 The Chimera's Fire Still Burns
+  51:10 Centaurs: The First Horsemen?
+  54:36 Thera: The Town Under the Ash
+
+Sources:
+  - The Olympic Museum (IOC) — The Olympic Flame and the Torch Relay (https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Documents/Document-Set-Teachers-The-Main-Olympic-Topics/The-Olympic-Flame-and-Torch-Relay.pdf)
+  - US Holocaust Memorial Museum — The Nazi Olympics, Berlin 1936 (https://encyclopedia.ushmm.org/content/en/article/the-nazi-olympics-berlin-1936)
+  - Verri et al. (2023), The goddess' new clothes — Antiquity (https://www.cambridge.org/core/journals/antiquity/article/goddess-new-clothes-the-carving-and-polychromy-of-the-parthenon-sculptures/9D7277925E339AC98642081CBAAD8794)
+  - Panofsky & Panofsky (1956), Pandora's Box (https://archive.org/details/365690708-pandoras-box-the-changing-aspects-of-a-mythical-symbol-by-dora-and-erw)
+  - Review of Badoud, The Colossus of Rhodes — BMCR 2025 (https://bmcr.brynmawr.edu/2025/2025.06.27/)
+  - Rorres (NYU) — Archimedes and the Siege of Syracuse (https://math.nyu.edu/Archimedes/Siege/Livy.html)
+  - D'Andria, The Ploutonion of Hierapolis — Journal of Roman Archaeology (https://journalofromanarchaeology.com/wp-content/uploads/2020/03/JRA31_04_DAndria.pdf)
+  - Internet Encyclopedia of Philosophy — Diogenes of Sinope (https://iep.utm.edu/diogenes-of-sinope/)
+  - Meier, Pliatsika & Shelton (2024), fossil collecting at Mycenae (https://pmc.ncbi.nlm.nih.gov/articles/PMC11333489)
+  - Wiseman (1998), Rethinking the Halls of Hades — Archaeology (https://archive.archaeology.org/9805/abstracts/insight.html)
+  - Penn Museum — Tumulus MM and the Funerary Banquet of King Midas (https://www.penn.museum/sites/expedition/tumulus-mm/)
+  - Etiope et al. — Chimaera, a large abiotic gas seep in Turkey (https://www.searchanddiscovery.com/abstracts/html/2014/90194ice/abstracts/1935350.html)
+  - Trautmann et al. (2023), Yamnaya horsemanship — Science Advances (https://pmc.ncbi.nlm.nih.gov/articles/PMC10954216/)
+  - Karstens et al. (2023), the Minoan eruption — Nature Communications (https://pmc.ncbi.nlm.nih.gov/articles/PMC10148807/)
+  - Şahoğlu et al. (2022), victims of the Thera eruption at Çeşme — PNAS (https://pmc.ncbi.nlm.nih.gov/articles/PMC8740722/)
+
+Transcript:
+
+The Olympic torch relay was never ancient Greek.
+
+It was invented in nineteen thirty-six, for Berlin.
+
+A Greek gate to the underworld sounds like pure myth.
+
+It's real, and it still kills. What surprised me: the older the story, the
+
+truer it got. Most of what's fake about Ancient Greece was added much
+
+later. Go down through what was added, and the old stories start to hold
+
+up. A monster's fire, described more than two thousand years ago,
+
+is still burning tonight. A king with the golden touch, and a royal tomb
+
+with no gold in it at all. At the very bottom, about thirty-six hundred
+
+years down, a whole town lies buried under the ash.
+
+When archaeologists uncovered it, there was nobody lying in its streets. So where did its people go? That's where this ends.
+
+Sixteen layers, every one with a verdict: real, half-real, invented,
+
+or still disputed. Let's dig. The first time a flame is lit at Olympia
+
+for the Games, it's the twentieth of July, nineteen thirty-six. At the old Temple of Hera, an Athens dance teacher catches the Greek sun in a reflector.
+
+Around her stand young women in short belted smocks, playing priestesses. Several of them are her own dance pupils. One is fourteen.
+
+A runner takes the flame, and it starts to move.
+
+More than three thousand runners carry it north, across Europe, holding torches made by Krupp,
+
+the German steel and armaments firm. In Berlin, the last runner lights the
+
+flame in the Olympic Stadium, and Adolf Hitler declares the Games open.
+
+Who was behind all this? The Berlin organiser, a sports official named Carl Diem, proposed it. The United States Holocaust Memorial Museum
+
+puts it bluntly: the relay "perfectly suited Nazi propagandists,
+
+who used torchlit parades and rallies." The Games already drew a line
+
+from Nazi Germany back to ancient Greece. Now that line had a ritual that
+
+looked two thousand years old. Even the famous film of those Games fakes it.
+
+Its "Olympic" flame-lighting wasn't shot in Greece at all.
+
+The director decided the real first runner didn't meet her "aesthetic
+
+standards". So, by one Olympic historian's account, she staged the scene on a beach on the Baltic, with an eighteen-year-old Russian refugee lighting the flame on an "antique" column made of papier-mache.
+
+How old is the torch relay, really? The Olympic Movement's
+
+own museum answers that one: "Contrary to what people could imagine, this tradition does not go back to the Games in Olympia."
+
+There were never any relays at the ancient Games. Ancient Olympia did keep
+
+a sacred fire. The travel writer Pausanias saw it in the second century. It sat on a hearth made of ash, and on it, he says, "fire burns every day and likewise every night." The Greeks did race
+
+with fire, but in Athens, as a contest for the gods.
+
+Runners carried burning torches from an altar of Prometheus to the city.
+
+If your torch went out, you lost. And lighting a sacred flame fresh from
+
+the rays of the sun really is ancient. Plutarch describes it.
+
+It just had nothing to do with a run from Olympia. And the man who proposed it?
+
+Carl Diem never joined the Nazi party, and the Nazis mocked him as a "white Jew".
+
+But in March nineteen forty-five, with the Red Army closing on Berlin, he spoke to
+
+Hitler Youth and militiamen sent to stop it.
+
+The speech is lost. Three yellowed sheets of his headings survive, and
+
+one quotes Tyrtaeus, the Spartan poet who called men to a sacrificial death.
+
+Accounts of what he actually said contradict each other. The torch didn't stay
+
+Berlin's, though. After the war, London's Games began a "relay of peace" with
+
+a Greek soldier taking off his uniform to carry the flame.
+
+For his seventy-fifth birthday, Diem asked for a present: the money
+
+to dig Olympia's real ancient stadium out of the ground. He lived just long enough to see it opened. Olympic historians still call him controversial.
+
+In nineteen sixty-four, the girl who had been fourteen at that first lighting choreographed
+
+the ceremony herself. That year the Games went to Tokyo.
+
+The last torchbearer was a young man from Hiroshima.
+
+He was born there on the day the atomic bomb fell. So, a torch
+
+relay from ancient Olympia? Invented, for Berlin, in nineteen
+
+thirty-six. Every Games still begins at Olympia with a ceremony first
+
+staged that summer. The only ancient Olympic flame was a fire on a pile of ash, and it never moved. If the fire was never what we pictured, try the
+
+stone around it. Imagine a Greek god carved in marble.
+
+You're seeing white, aren't you? Gleaming white. That white has a slogan, and
+
+a German scholar wrote it. In seventeen sixty-two, Johann Winckelmann
+
+is standing in the royal museum at Portici, in front of a goddess dug out of Pompeii. Artemis. There's red on her sleeves. Yellow ochre in her hair. A white base coat on her skirt and cloak. He is looking at a painted statue.
+
+Two years later, in seventeen sixty-four, he publishes a history of ancient
+
+art that helps shape the taste of an age, and one line in it becomes
+
+the slogan of white marble: "The whiter the body is, the more beautiful it is as well." A modern scholarly review
+
+argues that Winckelmann himself believed Greek statues had been painted.
+
+But the world kept the slogan, and forgot the rest. Four years
+
+after the book, a travelling cook stabbed him at an inn in Trieste.
+
+He stayed lucid for hours, right to the end.
+
+His slogan outlived him by a very long way.
+
+Museum halls fill with white gods. New monuments go up in bare
+
+white stone. And in the nineteen thirties, that taste picks up a chisel.
+
+An art dealer named Joseph Duveen is paying for a grand new gallery for
+
+the Parthenon sculptures at the British Museum, and he thinks they should look whiter.
+
+So workers clean some of them with copper chisels and carborundum, at the time
+
+the hardest substance known after diamond. A museum report admits
+
+it: "the damage is obvious and cannot be exaggerated."
+
+The man in charge of the sculptures is held responsible and retired.
+
+The official inquiry is kept secret for decades. Duveen dies in
+
+nineteen thirty-nine, and the next year a German bomb hits his gallery.
+
+The ancient witnesses tell a different story. The Roman writer Pliny records
+
+that the sculptor Praxiteles, asked which of his own marble statues he valued most, answered: "The ones to which Nicias has set his hand." Nicias was a painter. And Plato has Socrates
+
+reach for an everyday comparison: someone painting a statue, and getting
+
+scolded for doing the eyes in black instead of purple.
+
+To a Greek, a statue wasn't finished when the chisel stopped.
+
+In twenty twenty-three, a research team points a special camera at the Parthenon sculptures in London. In its images, an ancient pigment called Egyptian
+
+blue glows bright white. It lights up on a dozen figures.
+
+On one goddess, the dress is painted with bands of blue, and little painted figures in the pattern. What looks like an outstretched hand. A foot wearing a shoe. Some of those same sculptures had been cleaned in the nineteen thirties to make them whiter. The blue was still there.
+
+The white we admire, then, is what weather, burial and even museum cleaning
+
+left behind. The bright painted copies touring the world today are
+
+careful reconstructions from traces like these, not photographs.
+
+One reconstructed archer, from a temple on the island of Aegina, wears a pullover and matching leggings in a psychedelic zigzag that one magazine said looks "as if printed on Lycra".
+
+The archaeologist Vinzenz Brinkmann hunts for those traces with a hand-held spotlight, in low, raking light, while his wife paints the copies.
+
+Their show has toured for about twenty years. Some critics call
+
+the results kitsch. "It annoys me," he says, "but I'm not surprised."
+
+The gleaming white Greece in your head was invented, by people admiring ruins
+
+the weather had already stripped. Inside the Parthenon, the pedestal of Athena's
+
+gold-and-ivory statue was carved with the birth of the first woman in Greek
+
+myth. Pandora. And there's one thing everyone knows about
+
+her. She opened a box. It's fifteen oh eight, and Erasmus
+
+of Rotterdam is filling a book with Latin proverbs. Holbein would later paint him with his hands resting on a red book, its green ribbons untied.
+
+To explain one proverb, roughly "the fool grows wise once the harm is done",
+
+he retells the story of Pandora. Jupiter loads her with every gift of beauty, grace, wit and speech, and sends her to Prometheus "with
+
+a box that was very beautiful, but hid every kind of calamity inside."
+
+Prometheus refuses it and warns his brother. So Pandora talks the brother, Epimetheus, into taking the box. And the way Erasmus builds his next
+
+sentence, it reads as if Epimetheus is the one who opens it.
+
+His proverb book becomes one of the most popular books in the world. By the time he dies, it holds more than four thousand proverbs.
+
+"Pandora's box" slips into nearly every language in Europe.
+
+Painters and poets pick it up, and some even show Epimetheus opening it, just
+
+as that sentence seems to say. But Erasmus was retelling a Greek poem
+
+that was already more than two thousand years old. And in that poem, there
+
+is no box. The poet is Hesiod, from Ascra in Boeotia, a hamlet he calls "bad in winter, sultry in summer, and good at
+
+no time." His brother has "seized the greater share" of their inheritance. So Hesiod writes him a poem about why life is so hard.
+
+Zeus has the smith god Hephaestus mix earth with water and shape a woman. Every god gives her a gift, which is how
+
+she gets her name, and Hesiod calls her "a plague to men who eat bread."
+
+His story blames her for work and sickness. The key line is plain: "the
+
+woman took off the great lid of the jar with her hands and scattered all these."
+
+The jar. Hesiod's word is pithos, a huge earthenware storage
+
+jar for wine and oil. One from Crete, now in the British
+
+Museum, stands more than a metre tall. Nobody carries a thing like that
+
+down from Olympus. And in the classical sources, nobody does.
+
+The jar simply belongs to the household, and no ancient source seems to have a god
+
+forbid her to open it. Out come the troubles of the world.
+
+Diseases now wander among men "by day and by night, bringing mischief to mortals silently; for wise Zeus took away speech from them."
+
+Only one thing stays inside. Hope. Stuck "under the rim of the great jar", because the lid came down before she could fly out.
+
+Whether that's a mercy or one more curse, people still argue.
+
+Hesiod's own ending is a legend: one late story says he was murdered,
+
+and dolphins brought his body back to shore. So where did the box come from?
+
+In nineteen fifty-six, two art historians traced it back through the paintings and the poems, and named the man they called "the person really responsible for Pandora's box."
+
+Erasmus. His Latin had turned Hesiod's great storage jar into a
+
+pyxis. A little box. The jar is Hesiod's.
+
+The box was invented in fifteen oh eight, with a single Latin word.
+
+Europe got its box from a scholar's desk. It got its most famous giant from
+
+a harbour: a bronze colossus with one foot on each side of the water, and
+
+ships sailing between its legs. Rhodes, the thirteen nineties.
+
+An Italian visitor is writing down what the locals tell him about their lost wonder, the Colossus. It stood, they say, with "one foot on the wharf" and "the other on the end of the other wharf."
+
+By then, there's nothing left of the statue to check.
+
+His note is the oldest known version of the most famous picture of any ancient
+
+wonder. A Dutch artist later draws the giant towering over the mouth of a port, on a sheet smaller than a page of printer paper.
+
+The engraving made from it sends him striding across Europe.
+
+Shakespeare's Cassius says Caesar "doth bestride the narrow world like a Colossus."
+
+If you saw our Julius Caesar episode, you've already met the real Cassius.
+
+And the sonnet mounted on a plaque in the Statue of Liberty's pedestal in nineteen
+
+oh three opens: "Not like the brazen giant of Greek fame, with
+
+conquering limbs astride from land to land." Ask the ancient writers
+
+instead. The giant was paid for by a siege.
+
+A Macedonian king named Demetrius, called "the Besieger", brings a siege tower to
+
+Rhodes, nine storeys tall and plated with iron.
+
+Three thousand four hundred of his strongest men are
+
+picked just to push it. After about a year, he settles for a
+
+truce and leaves his siege gear behind. He'll end his days as a
+
+rival king's prisoner, kept, as one history puts it, "in a gilded
+
+cage". The Rhodians sell his gear, and with the money they build a god.
+
+Helios, the sun, in bronze. According to one ancient
+
+account, a sculptor from Lindos raises it from a base of white marble, one section at a time, heaping a mound of earth around each finished part so the next can be cast on top. "On the world," it says, "he set a second
+
+Helios facing the first." It stands about thirty-three metres tall.
+
+It lasts just over half a century. An earthquake throws it down, and it breaks at the knees. An oracle tells the Rhodians to leave
+
+it where it fell. Three centuries later, Pliny the Elder describes
+
+the giant still lying there. "Few men can clasp the thumb
+
+in their arms." Its fingers are "larger than most statues."
+
+And where the limbs have snapped, "vast caverns are seen yawning in the interior", with the great rocks that once steadied it still inside. Pliny himself would
+
+later die under Vesuvius, as our Pompeii episode tells.
+
+Not one ancient writer puts the Colossus astride a harbour.
+
+And the Italian's two wharves are so far apart that, as one geologist
+
+worked out, a statue standing on both would have to be about fifteen
+
+hundred metres tall. The real one was about thirty-three. A recent study concludes,
+
+simply, that "the legs were joined", and finds no evidence it ever
+
+stood in the harbour at all. The straddle was born some sixteen hundred
+
+years after the giant fell, when medieval visitors looked at the remains of old fortifications on either side of the harbour and took them for pieces
+
+of the statue. The famous ending, the bronze sold off and hauled
+
+away on nine hundred camels? Probably a later invention too.
+
+A tale told by locals, a Dutch drawing, a line of Shakespeare.
+
+That's the straddling giant's whole pedigree. Invented, from head to toe.
+
+That giant was a statue of the sun. And the sun is where this whole dig
+
+began. The flame at Olympia isn't lit with a match. An actress playing a priestess lights it from the sun's rays, caught in a curved mirror. In case the big day is cloudy, a backup flame is lit at a sunny rehearsal.
+
+There's an older story about a Greek, a mirror and the sun.
+
+In that one, what catches fire is a whole Roman fleet.
+
+And the man holding the mirror is Archimedes. The Roman fleet has pulled back from the walls
+
+of Syracuse, out to the distance of a bow-shot. Archimedes, an old man now,
+
+builds a mirror with six sides, ringed with little hinged mirrors. He catches the sun's beams in it. "A fearful kindling of fire" breaks
+
+out in the ships. And at the distance of a bow-shot, he turns them into ashes.
+
+That's the death ray, the way a Byzantine scholar wrote it down in the twelfth century.
+
+More than thirteen hundred years after the siege. The siege itself was real.
+
+Rome came for Syracuse by land and by sea, and for about two years, one old man's machines held it off. Three ancient historians describe
+
+those years in detail: Polybius, Livy and Plutarch. None of them mentions a mirror. What they describe is a claw.
+
+Roman ships press in against the sea wall. Beams swing out over it. From one of them, an iron hand drops on a chain, like the claw in an arcade machine,
+
+and grabs a ship by the prow. It hauls her up until she stands upright on her stern. Then it lets go.
+
+Some ships land on their sides. Some capsize.
+
+Most go under and fill with water. The Roman commander, Marcellus,
+
+can still make a joke of it. Archimedes, he says, "uses my ships to ladle sea-water into his wine cups". His men aren't laughing.
+
+Before long, whenever a bit of rope or a stick of timber pokes over the wall, they cry out, "There it is! Archimedes is training some engine upon us!" And they turn and run. The fire only creeps into the story
+
+later. Centuries after the siege, a writer says Archimedes "burned the ships of the enemy by means of his science". There's no mirror yet. The first clear mention of a mirror that we have comes
+
+about seven hundred years after the siege, from a mathematician who helped design Hagia Sophia. Modern teams have tried to build it.
+
+In nineteen seventy-three, a Greek engineer lines up dozens of sailors at a naval base near Athens, each tilting a big copper-coated mirror
+
+at a plywood cut-out of a Roman galley, out on the water. It starts smoking almost at once. But the plywood had been coated in
+
+tar, which catches fire easily. In twenty oh five, students
+
+at MIT burn a hole through an oak mock-up of a boat, but only under a clear sky, with a target that barely moves. On a real wooden fishing boat,
+
+for the TV show MythBusters, the mirrors only char the wood and light a small flame that goes out. A later retest, at the request of the President of the United
+
+States, is ruled "busted". The mirrors, one host allows, were "very dazzling and distracting". The real Archimedes died when
+
+his city fell. In one ancient telling, a soldier finds him shielding his diagrams in the dust with his hands. "I beg you," he says, "don't disturb this." The soldier kills him. "Do not disturb my circles" appears
+
+in no ancient source at all. Marcellus, says Plutarch, turned
+
+from the killer "as from a polluted person". On his tomb, he had asked
+
+for a sphere inside a cylinder. Cicero found it more than a century later,
+
+while serving as a Roman official in Sicily. The Syracusans had insisted it
+
+didn't exist. It stood by one of the city gates, "completely surrounded and hidden by bushes of brambles and thorns". The weapon that really sank Roman
+
+ships was the claw. As a feat of physics, the mirror is still
+
+disputed. As history, the first clear mention we have came
+
+seven hundred years later. The whole fleet only goes up in versions written thirteen hundred years on. Among the first writers to set those ships alight, centuries
+
+after the siege, was a man named Lucian. He told another story too,
+
+about a battle, a runner, and a single word. One morning in the second century, the
+
+satirist Lucian goes to greet his patron. The proper greeting is "Rejoice". What comes out of his mouth is "Be healthy". "A good enough wish in its way," he admits, "but
+
+a little untimely." So he writes a whole essay to defend himself.
+
+His proof is a runner. The first man ever to use "Rejoice" as a greeting, Lucian says, was a messenger from the battle of Marathon.
+
+He finds Athens' magistrates in their seats, waiting in suspense. "Joy, we win!" he says. And he dies on his message, "breathing his last in the word Joy". Lucian gives him a name: Philippides.
+
+By then, that battle was about six hundred years old. It's the story
+
+the whole world repeats, and it gave the marathon its name.
+
+Our Persia episode covered the fighting. This one is about the running.
+
+But Lucian wasn't even the first to kill the messenger. A little earlier, Plutarch
+
+tells of a runner called Eucles, who ran "in full armour, hot from
+
+the battle", and burst in at the doors of Athens' leading men. All he could say was "Hail! We are victorious!"
+
+He "straightway expired". Only one account comes from near the time:
+
+Herodotus. And in Herodotus, nobody runs from Marathon to Athens and
+
+drops dead. The only dash to the city is the whole Athenian army, hurrying home after the battle "as speedily as they could", to beat the Persian
+
+fleet there. Herodotus does have a runner, with
+
+nearly the same name: Pheidippides, "a runner of long day-courses", a professional. But his run comes before the battle.
+
+And it isn't to Athens. The Persians have landed at Marathon, and Athens
+
+needs help. So the generals send Pheidippides to Sparta.
+
+He is there "on the next day after that on which he left".
+
+About two hundred and forty kilometres. And Sparta says wait.
+
+They won't march "until the circle of the moon should be full".
+
+Pheidippides came back with a story of his own.
+
+On a mountain above Tegea, he said, the god Pan had called out his name,
+
+and asked why Athens ignored him. Athens built Pan a temple under
+
+the Acropolis. Herodotus never says the runner died.
+
+Pausanias, writing in the same century as Lucian, has him return and report on
+
+the moon. The legend won anyway. In eighteen ninety-four, a French scholar of language writes a letter proposing a long run from Marathon for the Olympic Games coming to Athens. "That would emphasise the character of Antiquity," he writes. He even pays for the prize himself, a small silver cup decorated with
+
+marsh birds and water plants. The race is run in eighteen ninety-six.
+
+The winner is Spyridon Louis, a water carrier from Marousi. Two princes run the last lap beside him.
+
+Offered rewards, he asks for a donkey cart, to help him carry his water.
+
+He never races again. In nineteen thirty-six, he is in Berlin, carrying Greece's flag at the very opening ceremony where the first torch
+
+relay ends. By one account, he hands Hitler an olive branch
+
+from Olympia. The exact distance is modern too: London's Olympic
+
+course in nineteen oh eight, from Windsor Castle to the stadium. One Olympic history calls it "rather arbitrary".
+
+In nineteen eighty-two, a Royal Air Force officer named John Foden reads Herodotus, and wonders whether a man really could reach Sparta by the next day.
+
+He is fifty-six. So he sets out from Athens with a few fellow officers.
+
+Three of them reach the statue of Leonidas in Sparta. Foden takes about a day and a half. The next year, their run becomes a race: the Spartathlon.
+
+It's still run every year, along Herodotus' route.
+
+So the runner and his heroic run are real. The race to Athens, and the
+
+death at the end of it, only turn up in the writing we have some six centuries
+
+later. Half-real, and the real half is the harder run.
+
+Every runner carries a Greek hero at the back of each heel, in the tendon that
+
+bears his name. He's the warrior who, the story goes, could only be wounded in that one spot. Achilles.
+
+A warrior hurls two spears at Achilles. One of them grazes the elbow of his right arm, "drawing dark blood". It flies on past him and sticks
+
+in the ground, "foiled of its bloody banquet". That's the Iliad. Homer's Achilles bleeds. The famous version has his mother dip him in
+
+the river Styx, so that only his heel can be hurt.
+
+But Homer's hero has no magic skin, so there's no single weak spot to find.
+
+What Homer does know is when he'll die, and how.
+
+As Hector lies dying, he tells Achilles that Paris and Phoebus Apollo "shall slay you at the Scaean gates". The killers are named.
+
+So is the gate. The wound isn't. The poem ends before that day comes, a point our Trojan War episode made.
+
+The Odyssey only shows what came after. In the underworld, Agamemnon's
+
+ghost tells him, "There you lay in the whirling clouds of dust, all huge
+
+and hugely." The Greeks fight over his body "the whole of the livelong
+
+day", until a hurricane stops them. His mother rises from the sea, and a wail goes out over the water that makes the army quake with fear.
+
+His tomb goes up on a point over the Hellespont, "that it might be seen from far out upon the sea". Still no wound. The arrow, at least, is old.
+
+A Greek vase painted in the sixth century BCE showed Achilles fallen,
+
+an arrow in his ankle, while Ajax stands over him, fighting off Paris,
+
+whose bow is still drawn. The vase is lost now. We know it from drawings. An ankle. Not a heel.
+
+Greek writers call that spot the sphyron, the ankle. Roman writers call it the talus, the ankle bone.
+
+And in many of the languages that grew out of Latin, talus later gave the word
+
+for heel. The magic bath is younger still.
+
+It first appears in surviving literature late in the first century CE,
+
+in an unfinished Roman poem, the Achilleid, by Statius.
+
+His Thetis dreams of dipping her son "a second time in the springs of Styx".
+
+She tells Achilles, "if at thy birth I fortified thee with the stern waters of Styx, ay, would I had wholly!" Even here, the heel is never named. The poem breaks off with Achilles saying, "the rest my mother
+
+knows." The tendon arrives around seventeen hundred.
+
+A Flemish anatomist, Philip Verheyen, names the cord at the back of the heel "chorda Achillis", though a French surgeon
+
+may have said "Achilles tendon" first. Verheyen had lost a leg to amputation. The man usually credited with putting Achilles into every human leg had lost one
+
+of his own. So Achilles' heel is half-real: a Greek arrow, a Roman
+
+bath, and a Latin ankle that turned into a heel.
+
+His mother's bath was the Styx, a river of the underworld.
+
+Nobody alive could go and test that water. But in Phrygia, in what's
+
+now Turkey, there was a cave sacred to Pluto, god of the dead.
+
+And a Greek geographer went to see it for himself. The bulls go in first.
+
+They're led into a cave mouth fenced by a square railing, so full of vapour that you can scarcely see the ground. They fall.
+
+They're dragged out dead. The man at the railing is Strabo, a Greek geographer,
+
+at Hierapolis in Phrygia, about two thousand years ago.
+
+So he tries it himself. He throws in sparrows. They "immediately breathed their last and fell". Nobody told Strabo this
+
+story. He threw the birds himself. Then the priests walk in.
+
+They are the Galli, eunuch priests of the goddess Cybele.
+
+They even climb down into the opening, holding their breath as much as they can. Their faces show "a kind of suffocating attack".
+
+And they come out alive. Strabo can't settle it. Divine providence, maybe. Or some physical "antidotes against the vapour".
+
+A second witness backs him up. The historian Cassius Dio tested the opening with birds too, and bent over it to see the vapour for himself.
+
+A theatre, he says, had been built over it. And it "destroys all living things save human beings that have been emasculated."
+
+Two eyewitnesses. One impossible claim. A door that kills everything, except its eunuch priests.
+
+The sanctuary works until the fourth century CE.
+
+In the sixth, Christians destroy it, with earthquakes perhaps adding to the ruin.
+
+The door is lost. From the nineteenth century on, scholars
+
+hunt for it, "without however reaching a satisfactory solution".
+
+What finally finds it is dead birds. The Italian archaeologist Francesco
+
+D'Andria keeps noticing them near a thermal spring. Every day, dead birds, "suffocated by the fumes of carbon dioxide".
+
+So in twenty oh eight, his team starts excavating, following the water.
+
+In twenty thirteen, he announces the find: "We found the Plutonium by reconstructing
+
+the route of a thermal spring." By then they have uncovered the cave. Stone half-columns inscribed to Pluto and Kore. A pool, and steps. And above the cave, a theatre area, right where Cassius Dio said a theatre
+
+had been built. And the gate still works. During the excavation, several birds try to get close to the warm opening. They die on the spot, "instantly killed by the carbon dioxide fumes".
+
+About two thousand years after Strabo's sparrows. The killer has no colour,
+
+no smell and no taste. It's carbon dioxide, seeping up from a crack
+
+in the earth that is still active. A team led by Hardy Pfanz measures it in the grotto at up to ninety-one percent.
+
+At night, that's enough to kill a person within a minute.
+
+So how did the priests walk out? The gas is heavy.
+
+It lies in the cave like water in a bath, thickest near the floor.
+
+A bull's nose is right inside it. A tall man standing upright keeps his head above it, and, Pfanz thinks, the priests knew the safer times
+
+of day. As Pfanz puts it, they understood that "the deadly breath of Kerberos", the hound of hell, "only reached a certain maximum height".
+
+The miracle was physics. Height, timing, and a held breath.
+
+The oracle's gas at Delphi, which our Greek myths episode chased, has never been
+
+pinned down. This gas has a name, and a number.
+
+Today the gate sits inside Pamukkale, a UNESCO World Heritage
+
+Site. The same thermal springs feed a pool where visitors swim in tepid
+
+mineral water, among ancient marble columns. Strabo's gate to the underworld is real. He saw it, and he told it straight.
+
+One more step down, and Pandora's jar comes back. Not the box.
+
+The pithos, the great storage jar for wine and oil.
+
+In the fourth century BCE, a philosopher named Diogenes is said
+
+to have made his home in one. So why does everyone picture him in a barrel?
+
+Diogenes wanted a cottage. He wrote to someone and asked him to find one. The man took his time. So Diogenes moved into a jar.
+
+It stood at the Metroon in Athens, the shrine of the Mother of the Gods, where the city kept its archives. He explained the move himself, in his letters,
+
+or so his biographer tells us. In summer, he rolled in it over hot
+
+sand. In winter, he hugged statues covered in snow.
+
+Every hardship he could find, he trained on. He had come to Athens as an exile,
+
+after a scandal over Sinope's coins. The sources can't agree who
+
+tampered with them, his father, a banker trusted with the public money, or Diogenes himself. The coins show it happened.
+
+He slept in his cloak, and carried a little bag for his food.
+
+One day he watched a child drink from its hands. So he threw his cup away. "A child has beaten me in plainness of living." That's the man in the famous picture.
+
+A barrel, and a king standing over it. The king is Alexander.
+
+The Greeks have just named him leader of their expedition against Persia, and Diogenes
+
+takes "not the slightest notice". So Alexander goes to him, with a crowd, to a grove of cypresses outside Corinth. He finds the philosopher lying in the
+
+sun. Diogenes raises himself up a little. Does he want anything?
+
+"Yes," says Diogenes. "Stand a little out of my sun."
+
+Alexander's followers laugh and joke about the philosopher. Alexander says, "If I were not Alexander, I would be Diogenes."
+
+Notice where that happens. Corinth, not the jar. The jar is in Athens.
+
+Later tellings put the king beside it anyway. Now, the barrel.
+
+No ancient writer puts him in one. The word is pithos, the same great
+
+clay storage jar Hesiod gave Pandora. English translators call it a tub.
+
+The world calls it a barrel. The Roman poet Juvenal leaves two clues.
+
+"The nude Cynic fears no fire for his tub." And if it breaks, he'll "repair it with clamps of lead." A home that can't burn, mended with lead.
+
+Both clues fit fired clay. The best-known ancient carving of the meeting has
+
+a secret too. It came out of the ground on a hill in Rome in seventeen twenty-six, damaged. It showed Diogenes in a mended jar,
+
+a dog on top, a temple behind. A collector had it restored. By one historian's account, the restorer gave Diogenes a new head, and added Alexander. The famous line itself survives in several versions,
+
+all written down centuries later. Stand out of my light. Stand a little out of my sun. Stand a little out of the line between me and
+
+the sun. One ancient writer even claimed the two men died on the same day.
+
+Plenty of stories about Alexander were invented, as one modern guide to the sources points out. This one, it says, "may well be true". Nobody can prove it.
+
+Diogenes died at Corinth, at nearly ninety.
+
+His biographer offers three causes: a raw octopus, holding his
+
+breath, or a dog's bite. They buried him by the city gate, under a pillar with a marble dog on top. The Greeks called him the Dog.
+
+The jar is ancient. The barrel isn't. And the king blocking the sun may never
+
+have stood there. Half-real, then, and the solid part is fired clay.
+
+Asked where he came from, Diogenes said, "I am a citizen of the world."
+
+Kosmopolites. It's where we get the word cosmopolitan.
+
+But in Athens, the word citizen was guarded far more jealously.
+
+A man from Sinope could sleep beside the city's archives. He had no vote there. So who did? On Assembly day, you'd expect the answer
+
+to be crowding up the hill. It isn't. "I groan, yawn, stretch." He makes sketches in the dust. He pulls out his loose hairs. He thinks about his fields. This is Dicaeopolis, a farmer in
+
+a comedy by Aristophanes, staged in the fifth century BCE.
+
+He's on the Pnyx, the rocky hill where Athens votes with raised hands. It's Assembly day, and he's sitting there alone. Everyone else is gossiping
+
+in the market below, "slipping hither and thither to avoid the vermilioned rope".
+
+It's a joke about democracy, in the city we still call its birthplace.
+
+The Athenian statesman Pericles gave that democracy its famous definition: its administration "favours the many instead of the few; this is why it is called a democracy." And the many held real power.
+
+A man from Miletus came asking for help, and failed to talk one Spartan
+
+king into it. So he went to Athens. As Herodotus puts it, "it
+
+is easier to deceive many than one". He did it "to thirty thousand Athenians", and they voted to send ships. The many could also throw a man out.
+
+Each voter scratched a name on a broken piece of pottery.
+
+At one of those votes, a man who couldn't write hands his potsherd to a stranger, and asks him to write "Aristides".
+
+What has Aristides ever done to you? "None whatever, I don't even know the fellow, but I am tired of hearing him everywhere called The Just." The stranger is Aristides. He writes his own name, and hands it back.
+
+The vote goes against him. As he leaves Athens, he raises his hands to heaven, and prays the city never faces a crisis that forces
+
+it to remember him. So who were the many?
+
+Aristotle's school wrote the fullest ancient account of how the system worked, and
+
+it gives the rule. "The franchise is open to all who are of citizen birth by
+
+both parents." Adult men only. No women. No resident foreigners. And no slaves. Aristotle himself was one of those foreigners. He lived in Athens for years, and never had a vote.
+
+After Alexander died, he was charged with impiety, and left, reportedly "lest the Athenians sin twice against philosophy". That two-parent rule came from
+
+the man who praised the many. In the mid-fifth century BCE, it was passed
+
+"on the motion of Pericles". And Plutarch claims it had teeth.
+
+When a king of Egypt sent Athens a gift of grain, prosecutions under
+
+the law followed, and "a little less than five thousand were convicted and sold
+
+into slavery". Then death came to Pericles' own family.
+
+He had a son by Aspasia, and under his own law, that son couldn't be
+
+a citizen. So Pericles asked Athens to suspend it.
+
+A law "rigorously enforced against so many", as Plutarch puts it, was
+
+now to be "suspended by the very man who introduced it".
+
+The Athenians agreed. In the end, the plague reached Pericles himself. When a friend visited, he showed him an amulet the women had hung round his neck,
+
+as if to say how bad things must be, if he'd put up with such folly.
+
+He died of it. So the many were tens of thousands of men, inside
+
+a far larger crowd of women, children, foreigners and slaves.
+
+And even they had to be coaxed. At first there was no pay for coming, and
+
+attendance suffered. So Athens started paying: one obol a day, then two, then three. In another of Aristophanes' comedies, a man who arrives
+
+too late for the money comes home with "nothing but this empty wallet".
+
+Rule by the many, then, is half-real. Most of the people who lived
+
+under it never cast a vote. Sparta, the city whose king couldn't be fooled,
+
+had troubles of its own. In the middle of the sixth century BCE, it kept losing
+
+a war to the Arcadian town of Tegea. And Delphi's cure was a dead man's bones.
+
+Bellows. A hammer. An anvil. Iron being forged, in a yard in Tegea. A Spartan named Lichas can't stop watching. The smith sees how amazed he is, and tells him about a real marvel. "I was making me a well in
+
+this courtyard, when in my digging I chanced upon a coffin seven cubits long." He couldn't believe men had ever been that tall.
+
+So he opened it. And "found within it the corpse as long as itself; I measured it, and buried it in earth again." Seven cubits.
+
+Longer than any living man. Lichas knows something the smith doesn't.
+
+Sparta has lost battle after battle to Tegea.
+
+Delphi has told it to bring home the bones of Orestes, son of Agamemnon. Where? A riddle. A place in Tegea where "twain winds are ever a-blowing, shock makes answer to shock, and anguish is laid upon anguish."
+
+Lichas looks around the yard. The bellows are the winds. The hammer and anvil are shock answering shock. The iron beaten between them is anguish laid upon anguish.
+
+The riddle was describing a smithy. So Sparta stages a fake trial, and
+
+banishes him. Lichas turns up in Tegea as a supposed exile, and asks
+
+to rent the yard. The smith won't let it go. Lichas keeps at him until he
+
+gives in. He digs, and he takes the bones. Lichas carries Orestes home.
+
+The Spartans bury him beside a sanctuary of the Fates, where Pausanias still records the grave centuries later. And from then on, says Herodotus,
+
+the Spartans "got much the better of the men of Tegea in all their battles."
+
+Athens wanted a giant of its own. Plutarch says that after
+
+the Persian Wars, Delphi told the Athenians to fetch back the bones of Theseus,
+
+and the general Cimon went to the island of Scyros. He saw an eagle pecking at a mound, tearing up the ground with its talons.
+
+There they found "a coffin of a man of extraordinary size, a bronze spear lying by its side, and a sword". Cimon brought the bones home in
+
+his own warship. That, says Plutarch, was the chief reason
+
+the people took kindly to him. Our Greek myths episode weighed modern
+
+guesses about griffins and cyclopes, with no ancient witness behind them.
+
+This is the opposite case. Here the ancients are the witnesses, and they describe people
+
+digging up, measuring, shipping and displaying giant bones.
+
+A fisherman named Damarmenus drags up a bone in his net, a shoulder blade said to be Pelops'. He marvels at its size, and hides it in the sand.
+
+The Eleans make him and his family its guardians.
+
+By Pausanias' day, it had "greatly decayed through the salt water", and was gone.
+
+So what did the smith of Tegea find? He gave the first clue himself. He didn't believe men had ever been that tall, and he was right.
+
+A classicist later pointed to a basin that was once a lake, part of Tegea's land
+
+in those days, he argued, and full of Ice Age animals: early elephants, mammoths, hippos. In nineteen oh two, he noted, one dig there
+
+pulled out five tons of fossil bones. His conclusion: "Orestes"
+
+was one of those beasts, laid in a coffin fit for a hero long before
+
+the smith dug his well. The Tegea bones are long gone, so that
+
+stays a theory. But the habit is far older than Lichas.
+
+At Mycenae, a lump from a basement storeroom sat in the museum catalogue for decades as "a large stone object of irregular shape, probably unfinished
+
+or broken during shaping". In twenty twenty-four, a team led by Jacqueline Meier looked again. It was the ankle bone of an extinct Ice
+
+Age rhinoceros. Someone had stored it there on purpose in the thirteenth century
+
+BCE, beside hundreds of cone shells, lead objects, and pieces of clay figurines. It's the earliest secure evidence of people collecting large
+
+animal fossils in mainland Greece. Half-real.
+
+The heroes were myth, but the bones were real. Sparta dug up the
+
+dead to win a war. In Corinth, around six hundred BCE, a
+
+tyrant wanted something smaller from the dead. Directions.
+
+His name was Periander, and the person he needed to ask was his wife.
+
+The dead woman is cold. She has nothing to wear. So she refuses to answer.
+
+Her name is Melissa. Her husband Periander rules Corinth, and
+
+a guest-friend has left a deposit with him that he can no longer find.
+
+So he sends messengers to the river Acheron, to the Oracle of the Dead.
+
+Melissa's ghost appears, and won't say where it is. The clothes buried with her are no use to her, she says, because they were never burnt. And to prove it's really her, she tells them a private detail only her husband would
+
+know. By later tradition, he'd killed her himself.
+
+Periander's answer is to summon the women of Corinth to the temple of Hera, in
+
+their finest clothes. His spearmen strip them all, free women and servants alike. The clothes go into a pit, and he burns them, praying to Melissa.
+
+Herodotus says that when his messengers went back, her ghost told them
+
+where the deposit was. Herodotus puts that oracle in the north-west, among the Thesprotians, on the Acheron. The same river names turn up in
+
+Homer. In the Odyssey, Circe sends Odysseus to where two rivers flow into
+
+the Acheron: "a rock, and the meeting place of the two roaring rivers".
+
+Our Odyssey episode followed the rest of that voyage.
+
+The rivers are real. Pausanias records them: a lake called Acherusia, the Acheron itself, and "Cocytus, a most unlovely stream". He believed Homer had seen these places, and named the rivers of Hades after
+
+them. The Acheron is said to run through dark gorges, and to sink underground
+
+in places. It's easy to see why people thought it led somewhere.
+
+So is the front door still there? Greece says yes. On a hill above the Acheron stands a ticketed site signed as "the most famous nekromanteion"
+
+of the ancient Greek world. In the nineteen fifties, a Greek archaeologist dug beneath a later church on that hill. He found a fortress of a building, with walls more than three metres thick, of tightly fitted stone.
+
+Under it lay a long vaulted chamber on fifteen stone arches. One acoustic study reports almost no echo down there, and almost no background
+
+noise. Inside the building were bronze wheels with ratchets. The archaeologist read them as a crane, a machine for raising "spectres" in
+
+front of the pilgrims, like stage machinery in a theatre.
+
+In nineteen seventy-nine, a German expert on ancient artillery looked at those wheels, and saw something else. Catapult parts. Pieces of third-century
+
+BCE catapults, fallen from the building's tower when the Romans captured
+
+it. After that, the rest of the case started to crack.
+
+The building is centuries younger than Homer, and younger than Periander.
+
+Its storerooms held farm tools, building and woodworking tools, and piles of grinding stones. Fortified farm towers like it dot the whole region.
+
+One historian of necromancy argues the real oracle was probably a lakeside precinct, and that it has long been misidentified.
+
+Whatever it was, it burned in one hundred sixty-seven BCE, when
+
+Rome sacked Epirus. The argument hasn't burned out.
+
+An archaeologist who studied those farm towers still called it unresolved in nineteen ninety-eight, and a study in
+
+twenty twenty-three took up the question again. A real
+
+river of the dead, a real oracle somewhere on its banks, and a fortress of
+
+a building that may or may not be its front door. Half-real.
+
+Herodotus wrote down Periander's ghost. He wrote down Lichas and his giant.
+
+And at Delphi, he saw a gift sent to the god by a foreign king, a king whose
+
+name still means gold. Everyone knows his touch turned everything to gold.
+
+But was there ever a real Midas? Herodotus thought so. He had seen the man's chair. It stood in Apollo's sanctuary at Delphi, a gift
+
+to the god. "The royal seat whereon he sat to give judgment," Herodotus calls it, "and a marvellous seat it is." It was sent by Midas, son of Gordias,
+
+king of Phrygia. An ivory figurine of a man taming a lion, now in the museum at Delphi, probably belonged to his throne.
+
+And the golden touch? Its earliest surviving telling is Aristotle's, in
+
+the fourth century BCE, long after the real king was dead.
+
+A man, he says, can have plenty and still "perish with hunger, like Midas in the fable, whose insatiable prayer turned everything that was set before him into gold." In the earliest version we have, the king starves.
+
+In Ovid, every bite comes away "covered with a yellow surface where his teeth
+
+touched." The best evidence for the king isn't Greek at all.
+
+In the late eighth century BCE, the records of the Assyrian king Sargon follow
+
+a western king they call Mita, of the Mushki, from troublemaker to tribute-payer. Most historians take Mita to be Midas, though the match
+
+rests on a name and the dates. His end is legend.
+
+As Cimmerian invaders overran Phrygia, Midas "drank bull's blood,
+
+they say, and thus went to his doom." So if the king was real, where
+
+was his gold? At his capital, Gordion, in central Turkey, stands
+
+a hill of heaped earth fifty-three metres high. The Midas Mound. In nineteen fifty-seven, an archaeologist who digs in jodhpurs and high leather boots decides to go in.
+
+Rodney Young, of the Penn Museum. A drilling rig finds the chamber.
+
+His team cuts a trench into the hill, then a tunnel, until they hit a double
+
+wall of logs and timbers. There is no door.
+
+Phrygian tomb chambers were built without one, "since no one was ever again expected
+
+to enter them." Behind the logs is a wooden room that could collapse the
+
+moment they cut into it. So Young has to keep it standing while he cuts his way in. The tunnel breaks through. The burial inside is untouched. Nobody was ever supposed to stand here
+
+again. On a thick pile of dyed textiles, inside a log coffin, lies a man in his sixties, dressed in leather. Around him, bronze.
+
+A cloth bag stuffed with bronze pins. About a hundred bronze drinking bowls. Buckets with the heads of lions and rams. Bronze, wood and cloth. In the Midas Mound, there is no gold at all. Then come the tree rings.
+
+The room's logs were cut around seven hundred forty BCE.
+
+But Midas is still alive in Sargon's records decades after that.
+
+So the man in the coffin is probably not Midas. No inscription names him.
+
+Most likely, Midas built this mound for his father, Gordias, at
+
+the start of his own reign. Rodney Young died in a traffic accident in
+
+nineteen seventy-four. The tomb's last secret was still sitting in storage in Philadelphia: the dregs from its vessels, a brown crust and a yellow powder.
+
+Decades after the dig, a molecular archaeologist named Patrick McGovern ran them through his lab. The brown crust was a stew of barbecued lamb or
+
+goat with lentils, spiced with anise or fennel. The yellow powder was the drink: grape wine, barley beer and honey mead, mixed
+
+together. A funeral feast. In the fable, Midas starves because
+
+his food turns to gold. In this tomb, there's no gold.
+
+The food is what lasted. A brewery still sells a drink developed with McGovern
+
+from those residues. It's called Midas Touch.
+
+On one side, the chair, the Assyrian records and his family's tomb.
+
+On the other, the golden touch. What you get is a half-real king, remembered
+
+for the half that never happened. Somebody lit the fire that cooked that funeral feast,
+
+and it went out long ago. Far to the south, on the coast of ancient Lycia,
+
+writers described a fire that never went out. By Roman times, its
+
+mountain was named after a monster. Bellerophon is carrying his own death
+
+warrant. A king has sent him to Lycia with a folded tablet of "lying letters
+
+of introduction", as Homer puts it, "containing much ill against the bearer."
+
+In Lycia, he's sent against a monster. "She had the head of a lion and the tail of a serpent, while her body was that of a goat, and she breathed forth flames of fire." The Chimera. He kills her, Homer says, because
+
+"he was guided by signs from heaven." Homer gives him no winged horse.
+
+Pegasus comes from other tellings. It doesn't end well for him.
+
+Homer leaves him "hated by all the gods", wandering alone, "gnawing
+
+at his own heart." The monster is as old as Homer.
+
+But Lycia also has a real fire, fed by something far older.
+
+Around four hundred BCE, a Greek writer named Ctesias reports a fire
+
+near Phaselis, in Lycia, "which never goes out, but burns on a rock both
+
+night and day." Water only makes it burn harder. Earth or dung puts it out.
+
+In Pliny, the place has a name, Mount Chimaera, and its flame "does
+
+not die by day or night." In eighteen eleven, a Royal Navy captain named Francis Beaufort is charting this coast for the Admiralty.
+
+He takes his breakfast "often by candlelight, always by five."
+
+A guide leads him up to a place called the Yanar. In a ruined wall,
+
+beside the remains of a Christian church, is a hole "shaped like the mouth of an oven." Flame pours out of it, "giving out an intense heat, yet
+
+producing no smoke on the wall." Shepherds often cook their food on it, the guide says. And it's notorious "that the yanar would not roast meat which had been
+
+stolen." Beaufort judges it "unquestionably" the fire Pliny meant. Then, almost in passing, he notes that the hill "is composed of the crumbly
+
+serpentine." The next year, near Adana, Ottomans attack
+
+his boat's crew, and he is seriously wounded. He recovers, and goes
+
+on to serve twenty-five years as the Admiralty's Hydrographer.
+
+You may know his name from the Beaufort wind scale. That note about the rock
+
+turns out to matter. In our own century, a team of gas geochemists
+
+finds the flame's gas rising along a fault in the earth, through exactly
+
+that serpentine. It's mostly methane. And most of that methane never
+
+came from anything alive. It's the mountain's own chemistry.
+
+Radiocarbon puts it at more than fifty thousand years old.
+
+At Pluto's Gate, the gas from the ground was carbon dioxide, and it killed.
+
+This gas burns. The researchers call the site probably the biggest
+
+leak of its kind on land, anywhere on Earth.
+
+Ctesias wrote this fire down more than two thousand years ago.
+
+Beaufort stood in its heat. And tonight, on a ridge called Yanartash in southern Turkey, at least twenty flames are still coming up out of the rock.
+
+Did those flames give birth to the monster? Pliny's name for the mountain makes
+
+the link. It doesn't prove it. Even the geographer Strabo put
+
+the Chimera somewhere else, in a ravine on another stretch of the Lycian coast.
+
+But the Lycians did honour Hephaestus, the smith god, at this fire, and
+
+the foundations of buildings around the flame can still be seen.
+
+The monster belongs to Homer. The fire belongs to the mountain.
+
+That leaves the Chimera half-real, however the two first met.
+
+Pliny, the same Roman who wrote down the fire, gives Bellerophon one more honour. "Horse-riding by Bellerophon," he writes.
+
+And "fighting on horseback by the Thessalians called Centaurs."
+
+So were the centaurs really just the first horsemen anyone ever saw?
+
+The next witness is made of clay. It comes from Lefkandi, from around nine hundred
+
+BCE, and it's half man, half horse.
+
+It came out of the ground in two pieces. First its head, at the bottom of a grave in the Toumba cemetery at Lefkandi. Several days later, its body, on the
+
+cover slab of a different tomb. It has knobbly knees and a painted body. Six fingers on its one surviving hand. And a deep cut in its front left leg,
+
+made on purpose, before the clay was fired. Somebody wanted this centaur wounded.
+
+It may be Chiron, the centaur Herakles shot with poisoned arrows.
+
+It's one of the earliest mythological figures in all of Greek art.
+
+In the myth, centaurs live in the forests of Mount Pelion, in Thessaly, and eat raw flesh. Their line begins with a son of King Ixion and a
+
+cloud shaped like the goddess Hera. The cloud's name is Nephele.
+
+In the Iliad, old Nestor boasts of heroes who fought "the mountain-dwelling centaurs,
+
+and they destroyed them terribly." Where does a monster like that come from?
+
+The answer you'll hear most often is fear: the first time anyone saw a man on a horse. And that answer is much older than it sounds.
+
+Palaephatus, writing in the fourth century BCE, calls the centaur impossible.
+
+A horse's food, he argues, could never pass through a human mouth and throat.
+
+"If a form once existed," he writes, "it would still exist now."
+
+He tells it differently. Under King Ixion, wild bulls have made Mount
+
+Pelion impassable. So young men from a town called Nephele work out how to ride horses, and hunt the bulls from horseback.
+
+Ixion is still the king. But Nephele isn't a cloud any more.
+
+It's a town. The young men ride away. From a distance, all the watchers can see are their backs: "like a horse but without a horse's head, then the rest like
+
+a human, but without the legs." And the cry goes up: "The Centaurs, from Nephele,
+
+are attacking us!" It's a lovely explanation. It turns a monster into a mistake.
+
+The trouble is the dates. On the steppe, in what's now Romania,
+
+Bulgaria and Hungary, five skeletons carry the marks of riding in their
+
+bones. They're the oldest riders identified so far, long before any
+
+Greek made a centaur. In Greece itself, aristocrats were riding
+
+by the thirteenth century BCE, three or four centuries before the clay
+
+centaur. And the horse-man already existed. Half-man, half-horse figures appear on Babylonian boundary stones,
+
+well before Lefkandi. Some scholars think the centaur may have begun there, perhaps reaching Greece through the Hittites. So the case leans on a favourite modern
+
+proof. People in the Americas, the story goes, took Spanish horsemen
+
+for single creatures. That story comes from Spanish writers, and
+
+a nineteenth-century historian carried it back to ancient Greece.
+
+A recent study calls it "wishful thinking by Iberian writers", who wanted to
+
+believe they'd been taken for gods or monsters. Of Palaephatus himself, nothing
+
+else is known. His answer, though, has been repeated ever since.
+
+The "first horsemen" theory isn't a modern discovery at all. It's a Greek myth-bust, about twenty-four hundred years old, and it's
+
+still disputed. The clay centaur ended up in two pieces, at
+
+two different graves. At the very bottom of this dig, something was buried
+
+whole: a town, with nobody in its streets.
+
+And the man who dug it out had first written about its volcano almost thirty years
+
+before. For about thirty-five hundred years, nothing disturbs the town. It lies sealed under pumice and ash, its houses still standing two and even three storeys high.
+
+When quarrymen cut pumice here for the Suez Canal works, they uncover ruins.
+
+But the digging begins in earnest in nineteen sixty-seven, at a place called Akrotiri,
+
+on the island of Thera, today's Santorini.
+
+It's led by a Greek archaeologist, Spyridon Marinatos, who, by one account, usually excavates in a pith helmet.
+
+His claim: this volcano destroyed the Minoans of Crete.
+
+His evidence: pumice, found at Amnisos, on Crete.
+
+Now he digs down into the pumice itself. Inside it, a town is standing.
+
+Its walls are painted with birds and lilies, with boxing children, with antelopes, the oldest monumental paintings in Greece. Where wooden furniture rotted
+
+away, it left hollows in the pumice. The excavators fill them with plaster
+
+of Paris. One comes back as a bed. The cast is in Athens now, still marked by the ropes that held its mattress. They call Akrotiri the Pompeii
+
+of the Aegean. But Pompeii kept its dead. In the streets of Akrotiri, there is nobody at all. Seven years in, Marinatos
+
+dies at the dig. A fall while instructing a worker, say the early accounts.
+
+A collapsing wall, say later ones. By some accounts, he is first buried on the site itself.
+
+His big theory hasn't held up. The idea that the eruption destroyed Minoan civilisation
+
+is now called "discredited". Crete was hit hard, not wiped
+
+out. He never learns exactly when the eruption happened.
+
+Nobody has, yet, and the timelines of the whole eastern Mediterranean hang
+
+on the answer. Archaeologists, tying it to Egypt's pharaohs, long put it around fifteen hundred BCE. Radiocarbon kept pointing earlier.
+
+An olive tree buried by the eruption was dated about a century earlier.
+
+Since then, the gap has been closing. A volcanic layer in the ice cores,
+
+long blamed on Thera, turned out to come from Alaska.
+
+A second buried olive, on the island next door, pointed a little later.
+
+The window is now roughly sixteen ten to fifteen forty BCE. Narrowed, not closed, and the old date still has defenders.
+
+And right inside that window, there's a clue from higher up this dig.
+
+One juniper log from the Midas Mound, the tomb Rodney Young tunnelled into, has a single calcium scar in its rings. Its researchers call it a potential marker of the eruption. It's one tree, and they say it needs checking.
+
+Much later, Greeks did watch this volcano at work.
+
+Strabo, the geographer who threw sparrows into Pluto's Gate, records
+
+fires breaking out of the sea between Thera and its neighbour, "so that the whole sea boiled and blazed", until they threw up a new island.
+
+The eruption that buried Akrotiri was one of the largest of the last ten thousand
+
+years. Our Atlantis episode tested the guess that it lies behind Plato's
+
+lost island. The end of Akrotiri came in stages.
+
+First, the ground shakes. Walls held together with nothing but clay, earth and straw come crashing down, from one, two, three storeys up. Paintings are "wrenched from the walls" and shatter across the floors.
+
+The survivors dig out their dead. They bury them. They leave.
+
+For a long time, that looked like the whole story: a town that got out in time.
+
+Then the volcano opens. A column of ash climbs over the island. Pumice pours down on Akrotiri until the town is buried several metres deep. The vent breaks into the flooded bay, and the eruption turns to explosions.
+
+Flows of hot ash and gas sweep across the island.
+
+Where those flows reach the sea, they may set it moving.
+
+On Crete, at Palaikastro, the ash lands first. The sea comes in over it, and leaves churned-up ash and Minoan
+
+pottery behind. At Malia, the water floods up to four
+
+hundred metres inland. It's no giant wall of water, whatever the retellings say.
+
+It didn't need to be. Across the water, on the coast of what's now Turkey, at
+
+a place called Cheshme, the sea surges in at least four times.
+
+In the rubble lies the skeleton of a young man, still joined together, "in a prone, slightly curved position". Nearby, under the fallen stones of a doorway, a dog. Later, someone cuts pits down into that debris.
+
+Coverage of the find read them as survivors, digging for the dead.
+
+The team that found them calls the man and the dog the first victims of the eruption ever identified. And they weren't on Thera at all.
+
+The story never needed the giant wave, or the vanished Minoans.
+
+The eruption is real. So are its dead. So where did the people of
+
+Akrotiri go? In its broken houses, the excavators found one
+
+more thing: repairs. Work had already begun.
+
+People had come back. The archaeologist who took over from Marinatos
+
+thinks some of them were still there when the volcano opened, and ran west, away
+
+from its poisonous gases. "But I don't believe that they ever left the island," he says, "because there was no time.
+
+They are probably still somewhere to the west of Akrotiri: buried, just like their town."
+
+The deepest layer of this dig, then, is probably one that nobody has found yet.
+
+Up at the surface, every Olympics begins with a flame lit from the sun, and it feels
+
+like the oldest tradition on Earth. Of all sixteen layers, it's the youngest. The further back we went, the more honest the stories got.
+
+The inventions are mostly ours, and we're still making them.
+
+Plenty of famous stories are waiting to be judged, and a few of them are going to lose. If you'd rather have the verdict than the legend, subscribe.
+
+---
+
 ## Julius Caesar Was Never Emperor. So Why Did 60 Senators Kill Him?
 
 URL: https://doodlehistory.com/episodes/julius-caesar/
